@@ -33,16 +33,3 @@ The following classification models were explored:
 The project uses the **Spambase dataset**, which is publicly available and contains:  
 - Attributes derived from email content (e.g., word frequencies, punctuation counts).  
 - A binary classification label indicating whether an email is spam (`1`) or not (`0`).  
-
-## Structure of the Repository  
-
-- `data/`: Contains the dataset (if permissible to share).  
-- `notebooks/`: Jupyter notebooks with code and analysis for each model.  
-- `results/`: Performance metrics and visualizations.  
-- `README.md`: This document.  
-
-## How to Run the Project  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
