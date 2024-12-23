@@ -1,6 +1,6 @@
 # Spam Detection Project  
 
-This repository contains the work for our project focused on **email spam detection** using the Spambase dataset. The project was developed as part of the **Statistical Learning** course by myself and Diletta Pasin
+This repository contains the work for our project focused on **email spam detection** using the Spambase dataset. The project was developed as part of the **Statistical Learning** course in collaboration with Diletta Pasin.
 
 ## Overview  
 
